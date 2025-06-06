@@ -19,7 +19,7 @@
     "developer-humor",
     "npm-joke"
   ],
-  "author": "Your Name",
+  "author": "Your Name <your.email@example.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
