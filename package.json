@@ -1,6 +1,6 @@
 {
   "name": "need-girlfriend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A humorous npm package that reminds you that you won't find a girlfriend in npm",
   "main": "index.js",
   "bin": {
@@ -23,7 +23,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/need-girlfriend.git"
+    "url": "https://github.com/SaeedCodez/need-girlfriend.git"
   },
   "engines": {
     "node": ">=12.0.0",
@@ -31,7 +31,7 @@
     "social-skills": "optional"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/need-girlfriend/issues"
+    "url": "https://github.com/SaeedCodez/need-girlfriend/issues"
   },
-  "homepage": "https://github.com/yourusername/need-girlfriend#readme"
+  "homepage": "https://github.com/SaeedCodez/need-girlfriend#readme"
 }
