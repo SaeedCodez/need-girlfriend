@@ -5,13 +5,7 @@ A revolutionary npm package that solves absolutely nothing but reminds you of yo
 ## Installation
 
 ```bash
-npm i -g need-girlfriend
-```
-
-Or if you're really desperate:
-
-```bash
-npm i -g need-girlfriend --force
+npm i need-girlfriend
 ```
 
 ## Usage

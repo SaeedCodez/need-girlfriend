@@ -1,6 +1,6 @@
 {
   "name": "need-girlfriend",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A humorous npm package that reminds you that you won't find a girlfriend in npm",
   "main": "index.js",
   "bin": {
